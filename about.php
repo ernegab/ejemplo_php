@@ -11,6 +11,9 @@
 
 <div class="container" id="main-content">
 	<h2>About Us</h2>
+	
+	<img src='https://i.imgur.com/9utWGDw.gif' /> 
+	
 	<p>"About Us" conten goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
 
 	<p>
