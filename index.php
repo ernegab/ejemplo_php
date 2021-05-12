@@ -10,7 +10,7 @@
 <?php include("includes/navigation.php");?>
 
 <div class="container" id="main-content">
-	<h2>Para Diego</h2>
+	<h2>Texto</h2>
 	<p>Some content goes here! Let's go with the classic "lorem ipsum."</p>
 
 	<p>
