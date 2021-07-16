@@ -12,7 +12,7 @@
 <div class="container" id="main-content">
 	<h2>About Us</h2>
 	
-	<img src='https://i.imgur.com/9utWGDw.gif' /> 
+	<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpz_FOzT29XEmd6lLj7Zk06fxMleiHbUjl_gJjCpH6kvuAzDMIUPA72UEDkGmzXK7KjmxPAvdH60a6yw&usqp=CAU' /> 
 	
 	<!-- <p>"About Us" conten goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
 
